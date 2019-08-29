@@ -2,6 +2,7 @@
 骨架屏组件实现
 
 ## 核心组件
+```
 <template>
 	<div class="skeleton-loading">
 		<div class="skeleton-bac-animation"></div>
@@ -42,3 +43,4 @@ export default {}
 	}
 }
 </style>
+```
